@@ -1,0 +1,12 @@
+123456789;2L 2% Vitali Milk
+123456798;1L 2% Vitali Milk
+456392452;70% Cocoa Zimbra Chocolate
+456123490;Zimbra Milk Chocolate
+634590221;Onion flavour chips
+634599011;Vinegar flavour chips
+780123678;Sliced white bread
+780432109;Sliced whole wheat bread
+809001234;2L Orange Juice
+808765432;2L Apple Juice
+999999999;Tester
+000000000;tester2
