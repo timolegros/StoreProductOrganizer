@@ -15,4 +15,4 @@ Availability.txt contains product ID's in the first column, supplier phone numbe
 Orders.txt contains an example output that is printed to a txt file when the program is fed the four input files above.
 
 
-**Known Issue: The last line printed in the output should print the second highest total order from a single supplier but currently prints the same supplier as the first. **
+**Known Issue: The last line printed in the output should print the second highest total order from a single supplier but currently prints the same supplier as the first.**
